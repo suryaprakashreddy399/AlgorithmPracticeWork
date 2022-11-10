@@ -1,0 +1,42 @@
+Algorithm :: it is a step by step process for solving the problems.
+----------
+1) write a Algorithm to accept 2 values from user & provide addition of  2 numbers ?
+
+step1 : accept 1st value
+step2 : accept 2nd value
+step3 : addition of value1,value2
+step4 : display addition value
+
+2) substraction, multiplication,division for 2 values
+
+step1 : accept 1st value
+step2 : accept 2nd value
+step3 : substraction of value1,value2
+step4 : display substraction value
+----------------------------------
+step1 : accept 1st value
+step2 : accept 2nd value
+step3 : multiplication of value1,value2
+step4 : display multiplication value
+--------------------------------------
+step1 : accept 1st value
+step2 : accept 2nd value
+step3 : division of value1,value2
+step4 : display division value
+
+3) write a Algorithm to accept employee salary & 3 Shopping bills & find
+  1) Total Shopping amount
+  2) how much % of amount employee is spending on shopping on his/her salary
+
+Steps
+-----
+
+step1 : accept employee salary
+step2 : accept shopping bill1
+step3 : accept shopping bill2
+step4 : accept shopping bill3
+step5 : Add total shopping amount (100+200+300)
+step6 : % of amount employee is spending on shopping on his/her salary(100+200+300)*100/1000
+step7 : display total shopping amount
+step8 : display % spending on shopping amount
+
